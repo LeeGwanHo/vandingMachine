@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1608555972 source:c:\users\user\desktop\code blocks file\1217coffeemachine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
